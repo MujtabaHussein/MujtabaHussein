@@ -6,9 +6,9 @@
 
 
 ### Tools I'm that I'm using:
-![html](https://github.com/MujtbaHussein/MujtbaHussein/assets/91373163/ccaa17d7-fd4c-45e4-aed7-63731f7c793f)
+![html](https://github.com/MujtbaHussein/MujtbaHussein/assets/91373163/258b172a-1494-49a6-aac7-463f531af5c9)
 ![css](https://github.com/MujtbaHussein/MujtbaHussein/assets/91373163/bd0e8c32-d292-45c8-8064-551995591a4e)
-![js](https://github.com/MujtbaHussein/MujtbaHussein/assets/91373163/65a00fc9-5de9-4c8c-bc9a-f7e2b3a0b0d7)
+![js](https://github.com/MujtbaHussein/MujtbaHussein/assets/91373163/10e86636-8340-4801-8234-dcace9b93bb7)
 <!--
 **MujtbaHussein/MujtbaHussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
