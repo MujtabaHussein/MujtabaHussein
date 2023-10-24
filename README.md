@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on some HTML and CSS plus JS projects
 - 🌱 I’m currently learning JS and HTML/CSS
 
-<img src="h[ttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml-5_732212&psig=AOvVaw08sUTkZWNGMhRHvPPos_Dg&ust=1698229218274000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCgsPu6joIDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml-5_732212&psig=AOvVaw08sUTkZWNGMhRHvPPos_Dg&ust=1698229218274000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCgsPu6joIDFQAAAAAdAAAAABAE)" />
-
+![html](https://github.com/MujtbaHussein/MujtbaHussein/assets/91373163/d52f425a-8424-43cf-af16-7f92d8844974)
 <!--
 **MujtbaHussein/MujtbaHussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
