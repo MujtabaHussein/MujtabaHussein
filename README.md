@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 ### My name is Mujtaba and it's good to see you here
 
 - 🔭 I’m currently working on some HTML and CSS plus JS projects
