@@ -2,7 +2,7 @@
 ### My name is Mujtaba and it's good to see you here
 
 - 🔭 I’m currently working on some HTML and CSS and JS projects
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning ReactJS
 
 
 ### Tools I'm that I'm using:
