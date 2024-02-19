@@ -1,5 +1,5 @@
 ### Hey there 👋
-### My name is Mujtaba and it's good to see you here
+### My name is Mujtaba and I hope you're doing great!
 
 - 🔭 I’m currently working on some HTML and CSS and JS projects
 - 🌱 I’m currently learning ReactJS
