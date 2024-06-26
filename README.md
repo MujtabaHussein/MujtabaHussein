@@ -1,9 +1,8 @@
 ### Hey there 👋
 ### My name is Mujtaba and I hope you're doing great!
 
-- 🔭 I’m currently working on some HTML and CSS and JS projects
-- 🌱 I’m currently learning ReactJS
-
+- 🔭 I’m currently working on some React projects
+- 🌱 I’m currently digging into reactJS
 
 ### Tools I'm that I'm using:
 ![html](https://github.com/MujtbaHussein/MujtbaHussein/assets/91373163/258b172a-1494-49a6-aac7-463f531af5c9)
