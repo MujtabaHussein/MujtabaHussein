@@ -4,12 +4,6 @@
 
 <h2 align="left">I'm Mujtaba, and I'm passionate about frontend development. I'm constantly working to learn more and improve my skills.</h2>
 
-###
-
-<h2 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning typscript<br>🎲 Fun fact: I'm a language teacher too</h2>
-
-###
-
 <h2 align="left">I code with:</h2>
 
 ###
